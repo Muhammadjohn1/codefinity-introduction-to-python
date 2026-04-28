@@ -8,11 +8,6 @@ contains_Imported = "Imported" in description
 price_is_float = type(price) == float
 count_is_int = type(count) == int
 
-
-# Write your code here
-
-
-
 print("Contains 'raw':", contains_raw)
 print("Contains 'Imported':", contains_Imported)
 print("Is price a float?:", price_is_float)
